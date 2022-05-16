@@ -1,0 +1,13 @@
+$ git init
+ls
+$ git add 'display.html'
+$ git commit -m 'add'
+$ git remote add origin (link of repository)
+$ git push origin master
+done
+
+
+
+git restore (filename) 
+undo changes
+
